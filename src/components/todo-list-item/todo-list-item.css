@@ -1,0 +1,32 @@
+.item, .item-block, .item-date, .item-text, .item-btn-block, .fa-star, .fa-trash-alt {
+    background: transparent;
+}
+
+.item {
+    width: 800px;
+}
+.done {
+    text-decoration: line-through;
+}
+
+.important{
+    font-weight: bold;
+    color: #41a7c8;
+}
+
+.item-block {
+    font-size: 20px;
+}
+
+.item-date {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.item-btn-block {
+    float: right;
+}
+
+.btn-outline-success {
+    margin-right: 5px;
+}
